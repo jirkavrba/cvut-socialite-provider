@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "JirkaVrba\\CvutSocialiteProvider\\": "packages/jirkavrba/cvut-socialite-provider/src"
+            "JirkaVrba\\CvutSocialiteProvider\\": "src/"
         }
     },
     "require": {
