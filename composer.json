@@ -1,0 +1,21 @@
+{
+    "name": "jirkavrba/cvut-socialite-provider",
+    "description": "A socialite provider for the authentication server of the FIT CTU in Prague",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jiří Vrba",
+            "email": "jiri@vrba.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JirkaVrba\\CvutSocialiteProvider\\": "packages/jirkavrba/cvut-socialite-provider/src"
+        }
+    },
+    "require": {
+        "laravel/socialite": "^4.3",
+        "ext-json": "*"
+    }
+}
