@@ -3,6 +3,7 @@
     "description": "A socialite provider for the authentication server of the FIT CTU in Prague",
     "type": "project",
     "license": "MIT",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Jiří Vrba",
